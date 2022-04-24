@@ -1,5 +1,0 @@
-import os, sys
-try:
-    __import__("dump").___menu___()
-except Exception as e:
-    exit(str(e))
