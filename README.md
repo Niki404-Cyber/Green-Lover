@@ -1,7 +1,7 @@
 # Green-Lover.
 <b></b>[![Github](https://img.shields.io/badge/Github-Niki404-Cyber-dimgray?style=flat-square&logo=github)](https://github.com/Niki404-Cyber)<br> [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/NIKI.CYBER404.OFFICIALS)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-Mr.NIKI-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/IulgtTY1ao6HeowtyCFEGJ)
 
-![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Green-Lover/main/SnapPic Collage_202243013917108~2.jpg)
+![20200808_160757](https://github.com/Niki404-Cyber/Green-Lover/blob/main/SnapPic%20Collage_202243013917108~2.jpg)
 <h1 align="center"> ERROR PROBLEM FIXED </h1>
 
 <h1 align="center"> MR.NIKI</h1>
