@@ -27,6 +27,7 @@ $ cd Greeen-Lover
 $ python Lover.py
 
 Note: (This Tools Are Paid, So You Need Permission To Use NIKI Green-Lover Tools Enjoy)
+![20200808_160757](https://github.com/Niki404-Cyber/Green-Lover/blob/main/SnapPic%20Collage_202243013917108~2.jpg)
 ```
 
 # Single Command 
@@ -35,7 +36,6 @@ Note: (This Tools Are Paid, So You Need Permission To Use NIKI Green-Lover Tools
 
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ;pip install bs4; pkg install git ; git clone https://github.com/Niki404-Cyber/Green-Lover.git ; cd Green-Lover; python Lover.py
 ```
-![20200808_160757](https://github.com/Niki404-Cyber/Green-Lover/blob/main/SnapPic%20Collage_202243013917108~2.jpg)
 
  Note: (This Tools Are Paid, So You Need Permission To Use NIKI Green-Lover Tools Enjoy)</br>
  [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/NIKI.CYBER404.OFFICERS)</br>
