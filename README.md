@@ -7,7 +7,11 @@
 
 <h2 align="center"> LOGIN WITH ADMIN APPROVAL PAID TOOLS</h2>
 
-<h3 align="center"> NEW FILE CLONING PRO TOOLS</h3>
+<h3 align="center"> NEW FILE CLONING PRO TOOLS </h3>
+
+
+![20200808_160757](https://github.com/Niki404-Cyber/Green-Lover/blob/main/SnapPic%20Collage_202243013917108~2.jpg)
+
 
 ## <b>Installation</b>
 
@@ -28,7 +32,6 @@ $ python Lover.py
 
 Note: (This Tools Are Paid, So You Need Permission To Use NIKI Green-Lover Tools Enjoy)
 ```
-![20200808_160757](https://github.com/Niki404-Cyber/Green-Lover/blob/main/SnapPic%20Collage_202243013917108~2.jpg)
 
 # Single Command 
 
