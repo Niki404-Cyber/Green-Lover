@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("wow7").__niki__()
+    __import__("wow7").__niki___()
 except Exception as e:
     exit(str(e))
