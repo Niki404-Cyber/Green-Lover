@@ -27,8 +27,18 @@ $ pip install mechanize
 $ pip install bs4
 $ pkg install git
 $ git clone https://github.com/Niki404-Cyber/Green-Lover.git
+
+## CP OK All ID Slow Run.
+👻 CP OK All ID Slow Run
+
 $ cd Greeen-Lover
 $ python Lover.py
+
+## Only OK IDs Show.
+💚Only ok ids show
+
+$ cd Green-Lover
+$ python Green.py
 
 Note: (This Tools Are Paid, So You Need Permission To Use NIKI Green-Lover Tools Enjoy)
 ```
