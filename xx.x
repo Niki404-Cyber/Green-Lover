@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("xbx").__niki____()
+    __import__("zxz").__niki____()
 except Exception as e:
     exit(str(e))
