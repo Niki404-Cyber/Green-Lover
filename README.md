@@ -9,10 +9,6 @@
 
 <h3 align="center"> NEW FILE CLONING PRO TOOLS </h3>
 
-
-![20200808_160757](https://github.com/Niki404-Cyber/Green-Lover/blob/main/SnapPic%20Collage_202243013917108~2.jpg)
-
-
 ## <b>Installation</b>
 
 ```
@@ -41,6 +37,8 @@ Note: (This Tools Are Paid, So You Need Permission To Use NIKI Green-Lover Tools
 
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ;pip install bs4; pip install rich; pkg install git ; git clone --depth=1 https://github.com/Niki404-Cyber/Green-Lover.git ; cd Green-Lover; python Lover.py
 ```
+
+![20200808_160757](https://github.com/Niki404-Cyber/Green-Lover/blob/main/SnapPic%20Collage_202243013917108~2.jpg)
 
  Note: (This Tools Are Paid, So You Need Permission To Use NIKI Green-Lover Tools Enjoy)</br>
 
