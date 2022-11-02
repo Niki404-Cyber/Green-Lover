@@ -25,6 +25,7 @@ $ pkg install python2
 $ pip install requests
 $ pip install mechanize
 $ pip install bs4
+$ pip install rich
 $ pkg install git
 $ rm -rf Green-Lover
 $ git clone --depth=1 https://github.com/Niki404-Cyber/Green-Lover.git
@@ -38,9 +39,10 @@ Note: (This Tools Are Paid, So You Need Permission To Use NIKI Green-Lover Tools
 
 ```
 
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ;pip install bs4; pkg install git ; git clone https://github.com/Niki404-Cyber/Green-Lover.git ; cd Green-Lover; python Lover.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ;pip install bs4; pip install rich; pkg install git ; git clone --depth=1 https://github.com/Niki404-Cyber/Green-Lover.git ; cd Green-Lover; python Lover.py
 ```
 
  Note: (This Tools Are Paid, So You Need Permission To Use NIKI Green-Lover Tools Enjoy)</br>
+
  [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/NIKI.CYBER404.OFFICERS)</br>
  [CODED BY Mr. NIKI]
